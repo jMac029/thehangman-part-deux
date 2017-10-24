@@ -50,7 +50,7 @@ window.onload = function() {
 			phraseDisplay.appendChild(correct);
 			correct.appendChild(userGuess);
 		}
-	},
+	};
 
 
 	// var displayButtons = function() {
